@@ -1,0 +1,1 @@
+background-image: linera-gradient(#dae4e4,#dde8e8,#d3e0e0);   <--use this css code for backforund color-->

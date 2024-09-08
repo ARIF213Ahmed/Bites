@@ -1,0 +1,3 @@
+black colour : rgb(20, 20, 20) ** not full black
+orange colour: rgb(255, 150, 0) **not full orange
+white colour: rgb(244, 244, 244) **not full white
